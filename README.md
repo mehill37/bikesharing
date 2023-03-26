@@ -1,6 +1,7 @@
 # bikesharing
 
 ## Summary
+
 Using Tableau to create visualizations of the NYC citibike data. Displaying bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 Question's we need to answer with our new data:
 - Where are the most popular starting/ending locations?
@@ -8,6 +9,7 @@ Question's we need to answer with our new data:
 - Who uses the bikes the most and how long are the bikes being used for by whom?
 
 ## Overview
+
 The Tableau Dashboard, used to create a story/summary of the data found, is any easy way to create a presentation for the propsal.
 
 <p align="center">
@@ -53,3 +55,15 @@ Displayed is the Dashboard that would be presented to investors.
 <img src="https://github.com/mehill37/bikesharing/blob/b113e1780a1670a743d7f465d39abb565a1d7c76/images/usertrips_gender_week.png">
 </p><br/>
 
+- Citibike is used on the island of Manhattan the most. From the data, it shows the intensity of it going back and forth from the business district to midtown most often. You can see from the following image the red shows the heavily used locations.
+
+<p align="center">
+<img src="https://github.com/mehill37/bikesharing/blob/e062d1cf5898232c21137c4ef41b1b5dfed82370/images/starting_location.png">
+</p><br/>
+
+## Summary
+
+Overall, this data has been very helpful in determining whether their operation could run in another city. Based on the results, bikesharing can be profitable in other cities such as Des Moins, Iowa as long as the locations have a majority male population and a practical use (i.e. commuting to work).
+Two visualizations to modify the data are:
+- A visualization of the age groups using the bikesharing. If a younger generation are using bikesharing more in NYC but that's not the case in Des Moins, Iowa, then it is possible that it's not a good fit. 
+- Find data for the start/stop station locations. This would give us insight on other reasons's some people are using bikesharing other than just commuting to work. For example, parks/amusement and recreation could be popular for bikesharing.
