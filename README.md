@@ -9,6 +9,7 @@ Question's we need to answer with our new data:
 - Who uses the bikes the most and how long are the bikes being used for by whom?
 
 ## Overview
+[link to dashboard] https://public.tableau.com/views/NYCBikeshareAnalysis_16798482848230/NYCCitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 The Tableau Dashboard, used to create a story/summary of the data found, is any easy way to create a presentation for the propsal.
 
